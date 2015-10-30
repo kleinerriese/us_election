@@ -27,7 +27,8 @@ body
   div(id="who")
     section(id="who") 
       h1 Who is this President?
-      img(class="chart", src="img/gov_chart.png", alt="chart") 
+      a(href="http://www.netage.com/economics/gov/Gov-chart-top.html", target="blank")
+        img(class="chart", src="img/gov_chart.png", alt="chart") 
       
   div(id="parties")
     section(id="parties")
@@ -41,14 +42,16 @@ body
     section(id="candidates")
       h1 Can I be candidate?!?
       iframe(src="//giphy.com/embed/aOFuAuXnh0ADe", width="480", height="270", frameBorder="0", class="giphy-embed", allowFullScreen)
-      img(src="img/how-to-become-president-chart-dehahs-picture.png", class="scheme", alt="scheme")
+      a(href="https://kids.usa.gov/president/index.shtml", target="blank")
+        img(src="img/how-to-become-president-chart-dehahs-picture.png", class="scheme", alt="scheme")
   div(ID="election")
     section(id="election")
       h1 The Actual election
-      iframe(width="950", height="534", src="https://www.youtube.com/embed/uRu_JcarCDY?start=164", frameborder="0", allowfullscreen)
+      div(class="video-container")
+        iframe(width="950", height="534", src="https://www.youtube.com/embed/uRu_JcarCDY?start=164", frameborder="0", allowfullscreen)
       h1 Wanna Read it black on white?
-      p You`re welcome I proudly present the constitution of the United States of America:
-      a(href="http://www.gpo.gov/fdsys/pkg/CDOC-110hdoc50/pdf/CDOC-110hdoc50.pdf")
+      p You`re welcome: I proudly present the constitution of the United States of America!
+      a(href="http://www.gpo.gov/fdsys/pkg/CDOC-110hdoc50/pdf/CDOC-110hdoc50.pdf", target="blank")
         img(src="img/United-States-Constitution.jpg", target="blank", class="constitution")
   div(id="thx", class="mod")
     section(id="thx")
