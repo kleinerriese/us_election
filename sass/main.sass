@@ -1,13 +1,15 @@
 @import bourbon
 @import lightgallery
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,600,700)
 
 @font-face
-  font-family: 'DecimaNova'
-  src: url(../fonts/decima-nova.ttf)
+  font-family: 'Open Sans'
+
 
 $bg: #faf9f9
-$header: #564965
+$header: #003b6a
 $content: #000
+$underline: #ec1c24
 
 body
   margin: 0
@@ -20,6 +22,9 @@ body
 a
   text-decoration: none
   color: $header
+h1
+  color: $header
+  text-transform: uppercase
 
 .header
   left: 0
@@ -32,22 +37,23 @@ a
   max-width: 950px
   height: 200px
   background: url(../img/bg_top.png)
-  background-size: 200px
-  border-bottom: 4px solid #FFF
+  background-size: cover
+  border-bottom: 50px solid $header
   color: #FFF
 
 .header a
   text-decoration: none
-  color: #FFF
+  color: $bg
 
 .logo
-  height: 200px
+  margin: 7px
+  height: 170px
   position: relative
   float: left
 
 .nav
   right: 0px
-  top: 146px
+  top: 210px
   width: auto
   margin-right: 20px
   position: relative
@@ -62,7 +68,7 @@ ul
   font-size: 20pt
 
 .li_bg:hover
-  border-bottom: 3px solid #FFF
+  border-bottom: 3px solid $underline
 
 .main
   position: relative
@@ -71,19 +77,44 @@ ul
   background-color: $bg
   padding-bottom: 50px
 
+img.chart
+  max-width: 950px
+
+.parties
+  margin-bottom: 80px
+
+img.republican, img.democratic
+  width: 430px
+  display: inline-block
+  margin-left: 20px
+  margin-right: 20px
+
+img.scheme
+  max-width: 950px
+  margin-top: 40px
+
+
 .mod
   margin-left: 20px
   margin-right: 20px
   max-width: 910px
   margin-bottom: 50px
 
+
   img
     float: left
     margin-right: 20px
     margin-bottom: 20px
 
+
+
   figure
     display: none
+
+iframe
+  display: block
+  margin: auto
+
 
 #ref
   clear: both

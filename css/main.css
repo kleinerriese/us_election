@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,600,700);
 @font-face {
   font-family: 'lg';
   src: url("../fonts/lg.eot?n1z373");
@@ -654,8 +655,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
 @font-face {
-  font-family: "DecimaNova";
-  src: url(../fonts/decima-nova.ttf); }
+  font-family: "Open Sans"; }
 body {
   margin: 0;
   font-family: "DecimaNova";
@@ -666,7 +666,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #564965; }
+  color: #003b6a; }
+
+h1 {
+  color: #003b6a;
+  text-transform: uppercase; }
 
 .header {
   left: 0;
@@ -679,22 +683,23 @@ a {
   max-width: 950px;
   height: 200px;
   background: url(../img/bg_top.png);
-  background-size: 200px;
-  border-bottom: 4px solid #FFF;
+  background-size: cover;
+  border-bottom: 50px solid #003b6a;
   color: #FFF; }
 
 .header a {
   text-decoration: none;
-  color: #FFF; }
+  color: #faf9f9; }
 
 .logo {
-  height: 200px;
+  margin: 7px;
+  height: 170px;
   position: relative;
   float: left; }
 
 .nav {
   right: 0px;
-  top: 146px;
+  top: 210px;
   width: auto;
   margin-right: 20px;
   position: relative; }
@@ -709,7 +714,7 @@ ul {
   font-size: 20pt; }
 
 .li_bg:hover {
-  border-bottom: 3px solid #FFF; }
+  border-bottom: 3px solid #ec1c24; }
 
 .main {
   position: relative;
@@ -717,6 +722,22 @@ ul {
   bottom: 0px;
   background-color: #faf9f9;
   padding-bottom: 50px; }
+
+img.chart {
+  max-width: 950px; }
+
+.parties {
+  margin-bottom: 80px; }
+
+img.republican, img.democratic {
+  width: 430px;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px; }
+
+img.scheme {
+  max-width: 950px;
+  margin-top: 40px; }
 
 .mod {
   margin-left: 20px;
@@ -729,6 +750,10 @@ ul {
     margin-bottom: 20px; }
   .mod figure {
     display: none; }
+
+iframe {
+  display: block;
+  margin: auto; }
 
 #ref {
   clear: both;
