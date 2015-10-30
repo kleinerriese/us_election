@@ -658,7 +658,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   font-family: "Open Sans"; }
 body {
   margin: 0;
-  font-family: "DecimaNova";
+  font-family: "Open Sans";
   color: #000;
   max-width: 950px;
   margin-left: auto;
@@ -670,7 +670,8 @@ a {
 
 h1 {
   color: #003b6a;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-top: 50px; }
 
 .header {
   left: 0;
@@ -689,7 +690,8 @@ h1 {
 
 .header a {
   text-decoration: none;
-  color: #faf9f9; }
+  color: #faf9f9;
+  margin-bottom: 8px; }
 
 .logo {
   margin: 7px;
@@ -735,6 +737,12 @@ img.republican, img.democratic {
   margin-left: 20px;
   margin-right: 20px; }
 
+img.constitution {
+  position: relative;
+  width: 400px;
+  left: 50%;
+  margin-left: -200px; }
+
 img.scheme {
   max-width: 950px;
   margin-top: 40px; }
@@ -758,3 +766,10 @@ iframe {
 #ref {
   clear: both;
   padding-top: 20px; }
+
+@media screen and (max-width: 865px) {
+  .header {
+    border-bottom: 85px solid #003b6a; } }
+@media screen and (max-width: 600px) {
+  .header {
+    border-bottom: 120px solid #003b6a; } }
