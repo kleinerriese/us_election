@@ -1,390 +1,11 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19076",
 "files": {
-	"\/css\/lightgallery.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/lightgallery.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/main.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/default-skin\/default-skin.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/default-skin\/default-skin.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/default-skin\/default-skin.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 547,
-		"inputAbbreviatedPath": "\/default-skin\/default-skin.png",
-		"outputAbbreviatedPath": "\/default-skin\/default-skin.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-bold-italic\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold-italic\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-bold-italic\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold-italic\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-bold-italic\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold-italic\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-bold-italic\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-bold-italic\/webfonts\/decima-nova-bold-italic.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold-italic\/webfonts\/decima-nova-bold-italic.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-bold\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-bold\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-bold\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-bold\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-bold\/webfonts\/decima-nova-bold.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-bold\/webfonts\/decima-nova-bold.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-heavy\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-heavy\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-heavy\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-heavy\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-heavy\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-heavy\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-heavy\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-heavy\/webfonts\/decima-nova-heavy.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-heavy\/webfonts\/decima-nova-heavy.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-italic\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-italic\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-italic\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-italic\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-italic\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-italic\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-italic\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-italic\/webfonts\/decima-nova-italic.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-italic\/webfonts\/decima-nova-italic.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt-italic\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt-italic\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt-italic\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt-italic\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt-italic\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt-italic\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-lt-italic\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-lt-italic\/webfonts\/decima-nova-lt-italic.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt-italic\/webfonts\/decima-nova-lt-italic.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova-lt\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova-lt\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova-lt\/webfonts\/decima-nova-lt.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova-lt\/webfonts\/decima-nova-lt.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova\/example.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova\/example.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova\/example\/example.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova\/example\/example.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/fonts\/decima-nova\/example\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2540,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova\/example\/logo.png",
-		"outputAbbreviatedPath": "\/fonts\/decima-nova\/example\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/fonts\/decima-nova\/webfonts\/decima-nova.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/decima-nova\/webfonts\/decima-nova.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/img\/bg_top.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44773,
-		"inputAbbreviatedPath": "\/img\/bg_top.png",
-		"outputAbbreviatedPath": "\/img\/bg_top.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58728,
-		"inputAbbreviatedPath": "\/img\/logo.png",
-		"outputAbbreviatedPath": "\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/play.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15881,
-		"inputAbbreviatedPath": "\/img\/play.png",
-		"outputAbbreviatedPath": "\/img\/play.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/video-play.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4526,
-		"inputAbbreviatedPath": "\/img\/video-play.png",
-		"outputAbbreviatedPath": "\/img\/video-play.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/vimeo-play.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5428,
-		"inputAbbreviatedPath": "\/img\/vimeo-play.png",
-		"outputAbbreviatedPath": "\/img\/vimeo-play.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/youtube-play.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5177,
-		"inputAbbreviatedPath": "\/img\/youtube-play.png",
-		"outputAbbreviatedPath": "\/img\/youtube-play.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
@@ -482,7 +103,7 @@
 		},
 	"\/js\/smooth_scroll.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/smooth_scroll.js",
 		"outputAbbreviatedPath": "\/js\/min\/smooth_scroll-min.js",
@@ -493,7 +114,7 @@
 		},
 	"\/js\/yt.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/yt.js",
 		"outputAbbreviatedPath": "\/js\/min\/yt-min.js",
@@ -507,7 +128,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/lg-animations.scss",
 		"outputAbbreviatedPath": "\/css\/lg-animations.css",
@@ -539,7 +160,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/lg-fb-comment-box.scss",
 		"outputAbbreviatedPath": "\/css\/lg-fb-comment-box.css",
@@ -651,7 +272,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/lg-transitions.scss",
 		"outputAbbreviatedPath": "\/css\/lg-transitions.css",
@@ -731,7 +352,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/main.sass",
 		"outputAbbreviatedPath": "\/css\/main.css",
@@ -1371,7 +992,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
