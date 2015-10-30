@@ -1,0 +1,90 @@
+@import bourbon
+@import lightgallery
+
+@font-face
+  font-family: 'DecimaNova'
+  src: url(../fonts/decima-nova.ttf)
+
+$bg: #faf9f9
+$header: #564965
+$content: #000
+
+body
+  margin: 0
+  font-family: 'DecimaNova'
+  color: $content
+  max-width: 950px
+  margin-left: auto
+  margin-right: auto
+
+a
+  text-decoration: none
+  color: $header
+
+.header
+  left: 0
+  right: 0
+  top: 0
+  z-index: 1000
+  margin-left: auto
+  margin-right: auto
+  position: relative
+  max-width: 950px
+  height: 200px
+  background: url(../img/bg_top.png)
+  background-size: 200px
+  border-bottom: 4px solid #FFF
+  color: #FFF
+
+.header a
+  text-decoration: none
+  color: #FFF
+
+.logo
+  height: 200px
+  position: relative
+  float: left
+
+.nav
+  right: 0px
+  top: 146px
+  width: auto
+  margin-right: 20px
+  position: relative
+
+ul
+  margin: 0
+
+.li
+  float: right
+  list-style-type: none
+  margin-left: 40px
+  font-size: 20pt
+
+.li_bg:hover
+  border-bottom: 3px solid #FFF
+
+.main
+  position: relative
+  top: 0px
+  bottom: 0px
+  background-color: $bg
+  padding-bottom: 50px
+
+.mod
+  margin-left: 20px
+  margin-right: 20px
+  max-width: 910px
+  margin-bottom: 50px
+
+  img
+    float: left
+    margin-right: 20px
+    margin-bottom: 20px
+
+  figure
+    display: none
+
+#ref
+  clear: both
+  padding-top: 20px
