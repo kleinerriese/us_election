@@ -383,17 +383,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/presidential-election-2012-social-media-rankings-infographic.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.80134e+06,
-		"inputAbbreviatedPath": "\/img\/presidential-election-2012-social-media-rankings-infographic.jpg",
-		"outputAbbreviatedPath": "\/img\/presidential-election-2012-social-media-rankings-infographic.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/Republicanlogo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -401,6 +390,17 @@
 		"initialSize": 84435,
 		"inputAbbreviatedPath": "\/img\/Republicanlogo.png",
 		"outputAbbreviatedPath": "\/img\/Republicanlogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social-media.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.80134e+06,
+		"inputAbbreviatedPath": "\/img\/social-media.jpg",
+		"outputAbbreviatedPath": "\/img\/social-media.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -448,6 +448,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/index.jade": {
 		"compileDebug": 1,
